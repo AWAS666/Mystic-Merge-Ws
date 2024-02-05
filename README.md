@@ -170,11 +170,26 @@ Orb and Dropper objects are given below the events.
   "Radius": 0.0
 }
 ```
-OrbStates can be:
+### OrbStates can be:
 - Preview -> 1
 - Inactive -> 2
 - Active -> 3
 - Removed -> 4
+
+### Index is the type of object:
+0. None
+1. Star
+2. Sock
+3. Aiko
+4. Yui
+5. Cabbage
+6. Shiro
+7. Hilda
+8. Melba
+9. Burnt Melba
+10. Rune
+11. Meteora
+
 
 ### Dropper
 ```json
