@@ -62,7 +62,7 @@ The delay is only ablied for children and in percentage. This means a delay of 0
 }
 ```
 
-### Example: Restart Instruction
+### Example: Ability Instruction
 ```json
 {
   "OpCode": 3,
@@ -72,7 +72,7 @@ The delay is only ablied for children and in percentage. This means a delay of 0
 ```
 
 
-### Example: Ability Instruction
+### Example: Restart Instruction
 ```json
 {
   "OpCode": 4,
