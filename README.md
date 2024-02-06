@@ -7,6 +7,8 @@ The Websocket Server runs on Port 3141 of localhost and it expects all objects a
 
 You can find builder classes to use in C# in "dotnet".
 
+[Download it on Steam, out in mid February](https://store.steampowered.com/app/2751810/Meteoras_Mystic_Merge/)
+
 ## Instruction Types
 The server recognizes the following instruction types, each with its unique properties:
 
