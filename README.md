@@ -148,7 +148,7 @@ Orb and Dropper objects are given below the events.
 ### Loose Event
 ```json
 {
-  "OpCode": 6,
+  "OpCode": 5,
   "Score": 0,
   "Highscore": 0
 }
