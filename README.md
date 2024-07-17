@@ -150,7 +150,15 @@ Orb and Dropper objects are given below the events.
 {
   "OpCode": 6,
   "Score": 0,
-  "Highscore": 0
+  "Highscore": 0,
+  "Timings": 
+  [
+    {
+      "Value" : 0,
+      "Time" : "00:00:00:000" // this one might be off
+    },
+    ...
+  ]
 }
 ```
 

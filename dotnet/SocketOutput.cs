@@ -97,6 +97,15 @@ public class UpdateEvent : BaseEvent
 }
 
 /// <summary>
+/// Definition of a orb with the best timings in current session.
+/// </summary>
+public class OrbTiming
+{
+    public byte Value;
+    public TimeSpan Time;
+}
+
+/// <summary>
 /// Indicates that the player lost.
 /// </summary>
 public class LooseEvent : BaseEvent
@@ -104,6 +113,7 @@ public class LooseEvent : BaseEvent
     public override EventOpCode OpCode => EventOpCode.Loose;
     public int Score;
     public int Highscore;
+    public OrbTiming[] Timings;
 }
 
 /// <summary>
